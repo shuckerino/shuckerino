@@ -1,8 +1,5 @@
 <h1 align="center">Hey 👋, I'm Rinaldo</h1>
 <h3 align="center">A computer science student from Germany with interest in Computer Vision and Machine Learning.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/GWO3.gif">
-
-
 
 - 🌱 I’m currently focusing on **machine learning and systems programming**
 
